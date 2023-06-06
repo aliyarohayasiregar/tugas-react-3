@@ -1,0 +1,16 @@
+.product {
+    height: 300px;
+    width: 220px;
+    background-color:rgb(68, 120, 175);
+    border-radius: 4;
+    padding: 15px;
+    color:rgb(11, 11, 12);
+    margin-bottom: 10px;
+    display: inline-table;
+    flex-wrap: wrap;
+}
+.image{
+    width: 180px;
+    height: 180px; 
+    object-fit: contain;
+}
